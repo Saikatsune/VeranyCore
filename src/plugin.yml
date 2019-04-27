@@ -1,0 +1,7 @@
+name: VeranyCore
+author: Saikatsune
+version: 1.0-SNAPSHOT
+main: net.saikatsune.veranycore.spigot.data.VeranyCore
+
+commands:
+  lag:

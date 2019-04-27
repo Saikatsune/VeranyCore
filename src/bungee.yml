@@ -1,0 +1,4 @@
+name: VeranyCore
+author: Saikatsune
+version: 1.0-SNAPSHOT
+main: net.saikatsune.veranycore.bungeecord.data.VeranyCore
